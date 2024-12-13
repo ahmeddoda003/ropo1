@@ -6,6 +6,5 @@ int main()
     cout<<"sec print";
     cout<<"first print";
 
-
     return 0;
 }
