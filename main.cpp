@@ -3,8 +3,8 @@ using namespace std;
  
 int main()
 {
-    cout<<"first print";
-    cout<<"sec print";
+    cout<<"first cout";
+    cout<<"second cout";
 
 
     return 0;
