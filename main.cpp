@@ -3,9 +3,8 @@ using namespace std;
  
 int main()
 {
-    cout<<"first cout";
-    cout<<"second cout";
-
+    cout<<"sec print";
+    cout<<"first print";
 
     return 0;
 }
